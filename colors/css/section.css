@@ -1,0 +1,21 @@
+.sec1{
+	      float:left;
+          height:500px;
+		  width:30%;
+		  background-color:red;
+		  border-style:double;
+}
+		  .sec2{
+			  float:left;
+		        height:500px;
+		  width:30%;
+		  background-color:yellow;
+		  border-style:double;
+}
+.sec3{
+	      float:left;
+		  height:500px;
+		  width:30%;
+		  background-color:green;
+		  border-style:double;
+}
